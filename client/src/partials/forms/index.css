@@ -1,0 +1,8 @@
+.parcel-form {
+    padding: 25px;
+}
+
+.form-shadow-control,
+.custom-shadow-select {
+    box-shadow: 1px 1px 3px #ccc;
+}
